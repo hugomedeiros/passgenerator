@@ -2,8 +2,8 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>Document</title>
-	<link type="text/css" rel="stylesheet" href="../Jaguar/assets/css/style.css"/>
+	<title>Simple Password Generator</title>
+	<link type="text/css" rel="stylesheet" href="assets/css/style.css"/>
 	<style>
 		body {
 			background: #3a3335;
