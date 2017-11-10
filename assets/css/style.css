@@ -539,6 +539,9 @@ body {
     content: " ";
     opacity: 0.2; }
 
+a {
+  color: #fff; }
+
 h1 {
   color: #fff;
   font-size: 4em;
